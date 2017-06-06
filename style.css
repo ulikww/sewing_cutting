@@ -1,0 +1,5 @@
+﻿/*Отображение ссылки при наведении на страницах*/
+a:hover {color:Chocolate; font-weight: bold; text-decoration:none}
+/*Фоновое изображение страниц*/
+body{background-image: url("фото для сайта/главная страница.jpg");background-color: Chocolate}
+/*Отображение параграфов*/
